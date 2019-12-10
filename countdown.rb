@@ -12,10 +12,8 @@ end
 
 
 def countdown_with_sleep
-  counter = 0
-until counter == 5
-  puts "The current number is less than 5."
-  counter += 1
+
+sleep
 end
   
   
