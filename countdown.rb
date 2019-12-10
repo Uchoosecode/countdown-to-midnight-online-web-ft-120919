@@ -11,8 +11,8 @@ def countdown(counter)
 end
 
 
-def countdown_with_sleep(count)
-  count = 5 
+def countdown_with_sleep(time)
+  time =  
   
   while count > 0 
     sleep.count
