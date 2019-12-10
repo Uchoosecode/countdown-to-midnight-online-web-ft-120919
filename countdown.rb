@@ -12,14 +12,9 @@ end
 
 
 def countdown_with_sleep(time)
-  time =  
+  time = Time.now  
   
-  while count > 0 
-    sleep.count
-  count -= 1
-  
-  end
-  break
+  sleep 5.seconds
 
 end
   
