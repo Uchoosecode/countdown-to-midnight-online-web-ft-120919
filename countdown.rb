@@ -19,7 +19,7 @@ def countdown_with_sleep(count)
   count -= 1
   
   end
-  
+  break
 
 end
   
